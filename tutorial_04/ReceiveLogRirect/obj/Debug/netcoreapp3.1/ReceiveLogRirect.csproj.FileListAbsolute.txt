@@ -1,0 +1,13 @@
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\ReceiveLogRirect\bin\Debug\netcoreapp3.1\ReceiveLogRirect.exe
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\ReceiveLogRirect\bin\Debug\netcoreapp3.1\ReceiveLogRirect.deps.json
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\ReceiveLogRirect\bin\Debug\netcoreapp3.1\ReceiveLogRirect.runtimeconfig.json
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\ReceiveLogRirect\bin\Debug\netcoreapp3.1\ReceiveLogRirect.runtimeconfig.dev.json
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\ReceiveLogRirect\bin\Debug\netcoreapp3.1\ReceiveLogRirect.dll
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\ReceiveLogRirect\bin\Debug\netcoreapp3.1\ReceiveLogRirect.pdb
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\ReceiveLogRirect\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\ReceiveLogRirect\obj\Debug\netcoreapp3.1\ReceiveLogRirect.csprojAssemblyReference.cache
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\ReceiveLogRirect\obj\Debug\netcoreapp3.1\ReceiveLogRirect.AssemblyInfoInputs.cache
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\ReceiveLogRirect\obj\Debug\netcoreapp3.1\ReceiveLogRirect.AssemblyInfo.cs
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\ReceiveLogRirect\obj\Debug\netcoreapp3.1\ReceiveLogRirect.csproj.CopyComplete
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\ReceiveLogRirect\obj\Debug\netcoreapp3.1\ReceiveLogRirect.dll
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\ReceiveLogRirect\obj\Debug\netcoreapp3.1\ReceiveLogRirect.pdb

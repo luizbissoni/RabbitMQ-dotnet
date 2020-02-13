@@ -1,0 +1,13 @@
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.exe
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.deps.json
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.runtimeconfig.json
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.runtimeconfig.dev.json
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.dll
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.pdb
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\EmitLogDirect\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.csprojAssemblyReference.cache
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.AssemblyInfoInputs.cache
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.AssemblyInfo.cs
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.csproj.CopyComplete
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.dll
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_04\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.pdb

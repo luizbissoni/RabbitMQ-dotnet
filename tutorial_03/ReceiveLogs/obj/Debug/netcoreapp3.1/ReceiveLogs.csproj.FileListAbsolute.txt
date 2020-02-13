@@ -1,0 +1,13 @@
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_03\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.exe
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_03\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.deps.json
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_03\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.runtimeconfig.json
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_03\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.runtimeconfig.dev.json
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_03\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.dll
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_03\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.pdb
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_03\ReceiveLogs\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_03\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.csprojAssemblyReference.cache
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_03\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.AssemblyInfoInputs.cache
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_03\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.AssemblyInfo.cs
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_03\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.csproj.CopyComplete
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_03\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.dll
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_03\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.pdb
