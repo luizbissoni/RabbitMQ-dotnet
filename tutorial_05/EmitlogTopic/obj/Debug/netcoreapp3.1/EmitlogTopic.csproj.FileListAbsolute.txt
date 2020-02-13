@@ -1,0 +1,13 @@
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_05\EmitlogTopic\bin\Debug\netcoreapp3.1\EmitlogTopic.exe
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_05\EmitlogTopic\bin\Debug\netcoreapp3.1\EmitlogTopic.deps.json
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_05\EmitlogTopic\bin\Debug\netcoreapp3.1\EmitlogTopic.runtimeconfig.json
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_05\EmitlogTopic\bin\Debug\netcoreapp3.1\EmitlogTopic.runtimeconfig.dev.json
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_05\EmitlogTopic\bin\Debug\netcoreapp3.1\EmitlogTopic.dll
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_05\EmitlogTopic\bin\Debug\netcoreapp3.1\EmitlogTopic.pdb
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_05\EmitlogTopic\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_05\EmitlogTopic\obj\Debug\netcoreapp3.1\EmitlogTopic.csprojAssemblyReference.cache
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_05\EmitlogTopic\obj\Debug\netcoreapp3.1\EmitlogTopic.AssemblyInfoInputs.cache
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_05\EmitlogTopic\obj\Debug\netcoreapp3.1\EmitlogTopic.AssemblyInfo.cs
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_05\EmitlogTopic\obj\Debug\netcoreapp3.1\EmitlogTopic.csproj.CopyComplete
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_05\EmitlogTopic\obj\Debug\netcoreapp3.1\EmitlogTopic.dll
+C:\Users\Luiz.bissoni\RabbitMQ-dotnet\tutorial_05\EmitlogTopic\obj\Debug\netcoreapp3.1\EmitlogTopic.pdb
