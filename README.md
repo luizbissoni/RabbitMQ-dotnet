@@ -4,3 +4,4 @@
 2. [Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
 3. [Publish/Subscribe](https://www.rabbitmq.com/tutorials/tutorial-three-python.html)
 4. [Routing](https://www.rabbitmq.com/tutorials/tutorial-four-python.html)
+5. [Topics](https://www.rabbitmq.com/tutorials/tutorial-five-dotnet.html)
