@@ -1,4 +1,4 @@
 # RabbitMQ e dotnet
 
-* https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html
-* https://www.rabbitmq.com/tutorials/tutorial-two-python.html
+* ["Hello World"](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html)
+* [Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
