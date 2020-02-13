@@ -1,0 +1,13 @@
+C:\Users\Luiz.bissoni\Receive\bin\Debug\netcoreapp3.1\Receive.exe
+C:\Users\Luiz.bissoni\Receive\bin\Debug\netcoreapp3.1\Receive.deps.json
+C:\Users\Luiz.bissoni\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.json
+C:\Users\Luiz.bissoni\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.dev.json
+C:\Users\Luiz.bissoni\Receive\bin\Debug\netcoreapp3.1\Receive.dll
+C:\Users\Luiz.bissoni\Receive\bin\Debug\netcoreapp3.1\Receive.pdb
+C:\Users\Luiz.bissoni\Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Luiz.bissoni\Receive\obj\Debug\netcoreapp3.1\Receive.csprojAssemblyReference.cache
+C:\Users\Luiz.bissoni\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfoInputs.cache
+C:\Users\Luiz.bissoni\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfo.cs
+C:\Users\Luiz.bissoni\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CopyComplete
+C:\Users\Luiz.bissoni\Receive\obj\Debug\netcoreapp3.1\Receive.dll
+C:\Users\Luiz.bissoni\Receive\obj\Debug\netcoreapp3.1\Receive.pdb
